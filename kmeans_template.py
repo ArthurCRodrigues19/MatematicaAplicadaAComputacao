@@ -2,7 +2,7 @@
 Trabalho: Implementação manual do K-means
 Matemática Computacional - Prof. Dr. Alexsandro O. A.
 
-Nome(s): Arthur Rodrigues de Carvalho-20241130037 e Thalys Eduardo Ferreira Cazuza-20241180148
+Nome(s): Arthur Rodrigues de Carvalho/UNIFAP:20241130037 e Thalys Eduardo Ferreira Cazuza/UNIFAP:20241180148
 
 Regras:
 - Use apenas NumPy, pandas e Matplotlib.
